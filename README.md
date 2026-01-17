@@ -3,7 +3,7 @@
 
 Researcher • Inventor • Systems Thinker
 
-I work at the intersection of engineering, artificial intelligence, and innovation, with a focus on creating practical, future-oriented solutions.
+I work at the intersection of engineering, artificial intelligence, and innovation, with a focus on creating practical, future-oriented solutions, Advanced systems.
 
 ---
 
