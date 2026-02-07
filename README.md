@@ -4,7 +4,7 @@ Researcher • Inventor • Systems Thinker
 
 My name is Nima Sina. I am a mechanical engineer, researcher, and inventor working at the intersection of engineering, artificial intelligence, robotics, and innovation. My work focuses on designing practical, future-oriented systems where small technical decisions compound into meaningful real-world impact.
 
-This repository serves as a living professional profile and knowledge hub, reflecting my ongoing research, engineering work, and systems-level thinking.
+This repository serves as a living professional profile and knowledge hub, reflecting my ongoing research, engineering work, and systems-level thinking. It is also a record of how ideas evolve when theory meets constraints, and how the future is built one deliberate decision at a time.
 
 ---
 
